@@ -44,11 +44,6 @@ You can take a look at a small example code snippet [here.]( http://rterp.github
 The latest Javadocs can be found [here.] (http://rterp.github.io/GMapsFX/apidocs/)
 
 
-## Authors
-
-- Rob Terpilowski  ::  Twitter: [@RobTerpilowski](https://www.twitter.com/RobTerpilowski)
-- Geoff Capper
-
 ## License
 
 Apache License, Version 2.0 (current)
